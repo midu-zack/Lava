@@ -218,4 +218,9 @@
     .client-name{
         font-size: 18px;
     }
+    .para-client{
+        font-size: 13px;
+        line-height: 21px;
+        
+    }
 }
